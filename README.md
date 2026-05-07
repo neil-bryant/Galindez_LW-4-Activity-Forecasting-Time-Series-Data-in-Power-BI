@@ -7,4 +7,4 @@ Neil Bryant O. Galindez
 Laboratory Work 4 – Forecasting Time-Series Data
 
 ## PDF Documentation
-[Click here to view the PDF](./Galinindez_NeilBryant_LW4.pdf)
+[Click here to view the PDF](./Galindez_NeilBryant_LW4.pdf)
